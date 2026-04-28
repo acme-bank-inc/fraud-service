@@ -8,8 +8,8 @@
     "start": "next start -H 0.0.0.0 -p 3000"
   },
   "dependencies": {
-    "next": "12.3.4",
-    "react": "16.0.6",
-    "react-dom": "16.0.6"
+    "next": "15.2.9",
+    "react": "19.0.1",
+    "react-dom": "19.0.1"
   }
 }
